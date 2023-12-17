@@ -14,3 +14,9 @@ git cmmit -m "this is my  first commit "
 ..
 
 bash your_file_name.sh 
+
+python setup.py install 
+
+# another way you can -e . in requirement file and you can run 
+
+pip install -r requirements.txt 
