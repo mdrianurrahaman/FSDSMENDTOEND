@@ -13,4 +13,4 @@ git add .
 git cmmit -m "this is my  first commit " 
 ..
 
-
+bash your_file_name.sh 
