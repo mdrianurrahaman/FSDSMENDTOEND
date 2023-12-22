@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ramiu/Desktop/End%20To%20End%20Project/FSDSMENDTOEND/mlruns/0/085b26563c3c4c4a9f79315fa9ea2eb5/artifacts
+end_time: 1703215882353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085b26563c3c4c4a9f79315fa9ea2eb5
+run_name: merciful-fly-726
+run_uuid: 085b26563c3c4c4a9f79315fa9ea2eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703215875676
+status: 3
+tags: []
+user_id: ramiu

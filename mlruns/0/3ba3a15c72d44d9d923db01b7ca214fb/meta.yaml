@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ramiu/Desktop/End%20To%20End%20Project/FSDSMENDTOEND/mlruns/0/3ba3a15c72d44d9d923db01b7ca214fb/artifacts
+end_time: 1703216495539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ba3a15c72d44d9d923db01b7ca214fb
+run_name: traveling-perch-968
+run_uuid: 3ba3a15c72d44d9d923db01b7ca214fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703216489932
+status: 3
+tags: []
+user_id: ramiu

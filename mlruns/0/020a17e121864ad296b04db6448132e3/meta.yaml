@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ramiu/Desktop/End%20To%20End%20Project/FSDSMENDTOEND/mlruns/0/020a17e121864ad296b04db6448132e3/artifacts
+end_time: 1703215940894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020a17e121864ad296b04db6448132e3
+run_name: amazing-calf-136
+run_uuid: 020a17e121864ad296b04db6448132e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703215936131
+status: 3
+tags: []
+user_id: ramiu
